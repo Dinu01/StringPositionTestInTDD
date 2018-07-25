@@ -1,6 +1,5 @@
 E:\.Asp program\StringPositionTestInTdd\StringPositionTestInTdd\bin\Debug\StringPositionTestInTdd.exe.config
 E:\.Asp program\StringPositionTestInTdd\StringPositionTestInTdd\bin\Debug\StringPositionTestInTdd.exe
 E:\.Asp program\StringPositionTestInTdd\StringPositionTestInTdd\bin\Debug\StringPositionTestInTdd.pdb
-E:\.Asp program\StringPositionTestInTdd\StringPositionTestInTdd\obj\Debug\StringPositionTestInTdd.csprojResolveAssemblyReference.cache
 E:\.Asp program\StringPositionTestInTdd\StringPositionTestInTdd\obj\Debug\StringPositionTestInTdd.exe
 E:\.Asp program\StringPositionTestInTdd\StringPositionTestInTdd\obj\Debug\StringPositionTestInTdd.pdb

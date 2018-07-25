@@ -33,7 +33,7 @@ namespace StringPositionTestInTdd
                    }
                }
            }
-           return "";
+           return null;
        }
     }
 }

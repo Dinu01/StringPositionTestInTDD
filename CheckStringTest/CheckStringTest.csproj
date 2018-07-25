@@ -35,7 +35,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="StringPositionTestInTdd">
+    <Reference Include="StringPositionTestInTdd, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\StringPositionTestInTdd\bin\Debug\StringPositionTestInTdd.exe</HintPath>
     </Reference>
     <Reference Include="System" />

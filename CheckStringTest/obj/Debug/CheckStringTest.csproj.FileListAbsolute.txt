@@ -1,0 +1,7 @@
+E:\.Asp program\StringPositionTestInTdd\CheckStringTest\bin\Debug\CheckStringTest.dll
+E:\.Asp program\StringPositionTestInTdd\CheckStringTest\bin\Debug\CheckStringTest.pdb
+E:\.Asp program\StringPositionTestInTdd\CheckStringTest\bin\Debug\StringPositionTestInTdd.exe
+E:\.Asp program\StringPositionTestInTdd\CheckStringTest\bin\Debug\StringPositionTestInTdd.pdb
+E:\.Asp program\StringPositionTestInTdd\CheckStringTest\obj\Debug\CheckStringTest.csprojResolveAssemblyReference.cache
+E:\.Asp program\StringPositionTestInTdd\CheckStringTest\obj\Debug\CheckStringTest.dll
+E:\.Asp program\StringPositionTestInTdd\CheckStringTest\obj\Debug\CheckStringTest.pdb
